@@ -1,0 +1,25 @@
+{
+  "name": "jqueryexercise",
+  "version": "0.0.0",
+  "homepage": "https://github.com/landerarnoys/Bootcamp-Exercises",
+  "authors": [
+    "landerarnoys"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "handlebars": "~4.0.3",
+    "director": "~1.2.8",
+    "requirejs": "~2.1.20"
+  }
+}
