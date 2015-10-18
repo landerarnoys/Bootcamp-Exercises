@@ -1,0 +1,25 @@
+{
+  "name": "ToDoMVC",
+  "version": "0.0.0",
+  "homepage": "https://github.com/RobbertWolfs/Bootcamp",
+  "authors": [
+    "Robbert Wolfs <robbertwolfs@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handlebars": "~4.0.3",
+    "jquery": "~2.1.4",
+    "director": "~1.2.8",
+    "underscore": "~1.8.3"
+  }
+}

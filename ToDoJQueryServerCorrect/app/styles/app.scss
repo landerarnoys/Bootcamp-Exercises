@@ -1,0 +1,9 @@
+@import "variables";
+@import "todomvc-app";
+@import "todomvc-common";
+
+#main,
+#footer {
+  display: none;
+}
+
